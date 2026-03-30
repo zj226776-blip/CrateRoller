@@ -1,0 +1,5 @@
+{
+  "name": "Crate Roller",
+  "description": "A game where you roll crates for weapons and skins, trade up for rarer items, and level up.",
+  "requestFramePermissions": []
+}
